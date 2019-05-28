@@ -406,8 +406,8 @@ const goodsList = function () {
                 ]
             },
             main_pic:[
-                Random.dataImage('260x380', 'mock的图片')
-                ,Random.dataImage('260x380', 'mock的图片'),
+                Random.dataImage('260x380', 'mock的图片'),
+                Random.dataImage('260x380', 'mock的图片'),
                 Random.dataImage('260x380', 'mock的图片'),
                 Random.dataImage('260x380', 'mock的图片'),
                 Random.dataImage('260x380', 'mock的图片')],
